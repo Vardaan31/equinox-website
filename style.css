@@ -1,6 +1,6 @@
 @font-face {
   font-family: GravityFont;
-  src: url(.Fonts/MonumentExtended-Regular.otf);
+  src: url(./MonumentExtended-Regular.otf);
 }
 
 * {
@@ -120,7 +120,7 @@ body::-webkit-scrollbar {
   margin-left: 35%;
   width: 30%;
   height: 100vh;
-  /* background-image: url(https://images.unsplash.com/photo-1718573577441-61fb326c1517?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
+  /* background-image: url(https://.unsplash.com/photo-1718573577441-61fb326c1517?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
   background-attachment: fixed;
   background-position: center;
   background-size: 42%;
@@ -130,26 +130,26 @@ body::-webkit-scrollbar {
 }
 
 #img-one {
-  background-image: url(./Images/one.jpg);
+  background-image: url(./one.jpg);
 }
 
 #img-two {
-  background-image: url(./Images/two.jpg);
+  background-image: url(./two.jpg);
 }
 
 #img-three {
-  background-image: url(./Images/three.jpg);
+  background-image: url(./three.jpg);
 }
 #img-four {
-  background-image: url(./Images/four.jpg);
+  background-image: url(./four.jpg);
 }
 
 #img-five {
-  background-image: url(./Images/five.jpg);
+  background-image: url(./five.jpg);
 }
 #img-six {
-  background-image: url(./Images/six.jpg);
+  background-image: url(./six.jpg);
 }
 #img-seven {
-  background-image: url(./Images/seven.jpg);
+  background-image: url(./seven.jpg);
 }
