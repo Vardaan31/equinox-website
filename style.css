@@ -1,6 +1,6 @@
 @font-face {
   font-family: GravityFont;
-  src: url(./Assets/Fonts/MonumentExtended-Regular.otf);
+  src: url(.Fonts/MonumentExtended-Regular.otf);
 }
 
 * {
@@ -130,26 +130,26 @@ body::-webkit-scrollbar {
 }
 
 #img-one {
-  background-image: url(./Assets/Images/one.jpg);
+  background-image: url(./Images/one.jpg);
 }
 
 #img-two {
-  background-image: url(./Assets/Images/two.jpg);
+  background-image: url(./Images/two.jpg);
 }
 
 #img-three {
-  background-image: url(./Assets/Images/three.jpg);
+  background-image: url(./Images/three.jpg);
 }
 #img-four {
-  background-image: url(./Assets/Images/four.jpg);
+  background-image: url(./Images/four.jpg);
 }
 
 #img-five {
-  background-image: url(./Assets/Images/five.jpg);
+  background-image: url(./Images/five.jpg);
 }
 #img-six {
-  background-image: url(./Assets/Images/six.jpg);
+  background-image: url(./Images/six.jpg);
 }
 #img-seven {
-  background-image: url(./Assets/Images/seven.jpg);
+  background-image: url(./Images/seven.jpg);
 }
